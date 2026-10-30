@@ -1,0 +1,6 @@
+Frame Number,Timestamp,Class,Confidence,x1,y1,x2,y2
+1,00:00:01,Violation - No Helmet,0.85,100,150,200,250
+2,00:00:02,Violation - No Helmet,0.90,120,160,220,260
+3,00:00:03,Violation - No Helmet,0.78,110,140,210,240
+4,00:00:04,Violation - No Helmet,0.92,130,170,230,270
+5,00:00:05,Violation - No Helmet,0.88,115,155,215,255

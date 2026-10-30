@@ -1,0 +1,6 @@
+path: .
+train: Helmet_Dataset/images
+val: Helmet_Dataset/images
+nc: 3
+names: {0: 'With Helmet', 1: 'Without Helmet', 2: 'Triple Riding'}
+
